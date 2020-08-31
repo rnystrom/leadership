@@ -1,2 +1,3 @@
-# leadership
-[WIP] My leadership thoughts, principals, and resources.
+# Leadership
+
+[WIP] My thoughts, principles, and resources on leadership.
