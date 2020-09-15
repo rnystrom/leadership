@@ -1,11 +1,8 @@
 # Books
 
-## Reading
-
-- Turn the Ship Around!
-
 ## Read
 
+- Turn the Ship Around!
 - Principles
 - The Power of Habit
 - Creativity, Inc
@@ -15,6 +12,7 @@
 - The Lean Startup
 - The Inner Game of Tennis
 - Radical Candor
+- The Beggar King and the Secret to Happiness
 
 ## Queue
 
